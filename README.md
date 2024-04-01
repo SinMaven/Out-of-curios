@@ -1,6 +1,21 @@
+<div id="top"></div>
+
 ![#Banner](https://github.com/0xRinx/Out-of-curios/assets/96206184/b0b9b8ee-41f4-4eb1-9257-f86c701c2c51)
 
-# Out of Curios
+<p align="center">
+    <br />
+    <a href="https://github.com/kylejeong2/Best-README-Template"><strong>Personal blog</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/kylejeong2/Best-README-Template">Projects</a>
+    ·
+    <a href="https://github.com/kylejeong2/Best-README-Template/issues">Resources</a>
+    ·
+    <a href="https://github.com/kylejeong2/Best-README-Template/issues">Known issues</a>
+  </p>
+</div>
+
+## About
 
 This project is my playground to try stuff I normally wouldn't because, let's be real, awesome resources can be rarer than a lightmode vim user (seriously, do those exist?).
 
@@ -16,6 +31,12 @@ There are so many things I've always wanted to try, those "what ifs" that keep p
 
 * Got a wild idea that aligns with the project's spirit? Open an issue and let's brainstorm! The crazier the idea, the better (well, maybe not too crazy).
 
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
 ## Authors
 
 ~ [@0xRinx](https://www.github.com/0xrinx)
+
+<p align="right">(<a href="#top">↑</a>)</p>
