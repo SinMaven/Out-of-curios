@@ -1,1 +1,1 @@
-![#7(7)](https://github.com/0xRinx/Out-of-curios/assets/96206184/c109555e-6be6-4023-9006-01721a6d9fbb)
+![#Banner](https://github.com/0xRinx/Out-of-curios/assets/96206184/b6ef5ab5-0f3a-4f99-9dad-735be276405a)
