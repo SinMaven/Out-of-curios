@@ -6,12 +6,15 @@ This project is my playground to try stuff I normally wouldn't because, let's be
 
 There are so many things I've always wanted to try, those "what ifs" that keep popping up in my head, like what if I can turn vim into a full operating system or maybe write a script that automatically generates documentation from my cryptic Vim keybindings?  This might be a long shot, but wouldn't it be amazing?
 
+## Roadmap
+
+- [ ] Learn Rust
+
 ## Contributing
 
 * I encourage you to fork the repository, tinker with the code, and submit a pull request with your awesome changes. Even small improvements or bug fixes are a huge help!
 
 * Got a wild idea that aligns with the project's spirit? Open an issue and let's brainstorm! The crazier the idea, the better (well, maybe not too crazy).
-
 
 ## Authors
 
