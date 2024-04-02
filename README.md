@@ -33,7 +33,7 @@ There are so many things I've always wanted to try, those "what ifs" that keep p
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Authors
 
