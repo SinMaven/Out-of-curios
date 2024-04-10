@@ -2,19 +2,6 @@
 
 ![#Banner](https://github.com/0xRinx/Out-of-curios/assets/96206184/b0b9b8ee-41f4-4eb1-9257-f86c701c2c51)
 
-<p align="center">
-    <br />
-    <a href="https://github.com/kylejeong2/Best-README-Template"><strong>Personal blog</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/kylejeong2/Best-README-Template">Projects</a>
-    ·
-    <a href="https://github.com/kylejeong2/Best-README-Template/issues">Resources</a>
-    ·
-    <a href="https://github.com/kylejeong2/Best-README-Template/issues">Known issues</a>
-  </p>
-</div>
-
 ## About
 
 This project is my playground to try stuff I normally wouldn't because, let's be real, awesome resources can be rarer than a lightmode vim user (seriously, do those exist?).
@@ -31,8 +18,11 @@ These projects all shared a core principle: they were built from the ground up a
 Sharing this project as an open-source "look what I made, you can too" is my way of showing you how I did it, learning from my mistakes, and maybe even meeting some people who are just as excited about building stuff as I am.
 
 ## Roadmap
+> [!IMPORTANT]
+> Currently learning Linux+, Linux for hackers, and linux from scratch.
+> Writing a project based tutorial on linux
 
-- [ ] Learn Rust
+- [ ] Learn Linux
 
 ## Contributing
 
